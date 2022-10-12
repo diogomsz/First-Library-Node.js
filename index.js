@@ -2,7 +2,8 @@ import fs from 'fs';
 import chalk from 'chalk';
 
 function trataErro(erro) {
-    throw new Error(erro);
+    console.log(erro);
+    throw new Error(chalk.red(erro.code, 'Não foi encontrado arquivo no diretório'));
 }
 
 function pegaArquivo(caminhoDoArquivo) {
@@ -15,4 +16,4 @@ function pegaArquivo(caminhoDoArquivo) {
     })
 }
 
-pegaArquivo('./arquivos/texto.md');
+pegaArquivo('./arquivos/');
