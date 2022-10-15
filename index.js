@@ -7,7 +7,7 @@ function extraiLinks(texto) {
 
     const resultados = capturas.map(captura => ({[captura[1]]: captura[2]}));
 
-    console.log(resultados);
+    return resultados;
 }
 
 function trataErro(erro) {
@@ -15,12 +15,12 @@ function trataErro(erro) {
     throw new Error(chalk.red(erro.code, 'Não foi encontrado arquivo no diretório'));
 }
 
-// CODIGO ASSINCRONO COM ASYNC AWAIT
+// async await
 async function pegaArquivo(caminhoArquivo) {
     try {
         const encoding = 'utf-8';
         const texto = await fs.promises.readFile(caminhoArquivo, encoding);
-        extraiLinks(texto);
+        console.log(extraiLinks(texto));
     } catch(erro) {
         trataErro(erro);
     }
