@@ -1,4 +1,4 @@
-# Node.js - Criando uma biblioteca ![My Skills](https://skillicons.dev/icons?i=nodejs)
+# Node.js - Criando uma biblioteca
 ## Do que se trata
 > Em breve...
 ## Tecnologias utilizadas
