@@ -18,6 +18,8 @@
 ## Tecnologias utilizadas
 > ![My Skills](https://skillicons.dev/icons?i=vscode,nodejs,js)
 ## Informações
-> Esta biblioteca foi criada com base no curso de "Node.js: criando sua primeira biblioteca".
-> Todo o projeto foi voltado para o Back-End.
+> Esta biblioteca foi criada com base no curso de "Node.js: criando sua primeira biblioteca"
 > 
+> Todo o projeto foi voltado para o Back-End.
+## Certificado:
+> https://cursos.alura.com.br/certificate/5341771f-f6a6-49ae-8f01-770ea889e039
