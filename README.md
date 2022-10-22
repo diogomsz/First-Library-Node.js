@@ -1,4 +1,4 @@
-# Node.js - Criando uma biblioteca
+# Node.js - Criando uma biblioteca :computer:
 ## Funcionalidade
 > Ao desenvolvermos qualquer Aplicação Web, ao longo da codificação, podemos trabalhar com links para citar referências, páginas externas, etc.
 > 
@@ -6,7 +6,7 @@
 > 
 > Essa biblioteca tem como funcionalidade capturar os links existentes ao longo de um arquivo com a extensão .md e validar os mesmos.
 >
-> Foram usadas métodos como [FileSystem (ReadFile)](https://nodejs.org/api/fs.html), [Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise), manipulação de [Expressões Regulares](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions), uso de API's como o [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API), etc.
+> Foram usadas métodos como [FileSystem (ReadFile) :books:](https://nodejs.org/api/fs.html), [Promises :envelope_with_arrow:](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise), manipulação de [Expressões Regulares :black_nib:](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions), uso de API's como o [Fetch API :gear:](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API), etc.
 >
 > Todo o projeto foi voltado para o Back-End.
 ## Tecnologias utilizadas
