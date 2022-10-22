@@ -32,5 +32,3 @@ export default async function listaValidada(listaDeLinks) {
         status: status[indice]
      }));
 }
-
-// [gatinho salsicha](http://gatinhosalsicha.com.br/)
