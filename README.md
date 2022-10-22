@@ -17,6 +17,8 @@
 > Entre outros.
 ## Tecnologias utilizadas
 > ![My Skills](https://skillicons.dev/icons?i=vscode,nodejs,js)
+
+> <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 ## Informações
 > Esta biblioteca foi criada com base no curso de "Node.js: criando sua primeira biblioteca"
 > 
