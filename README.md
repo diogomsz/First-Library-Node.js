@@ -22,4 +22,4 @@
 > 
 > Todo o projeto foi voltado para o Back-End.
 ## Certificado:
-> https://cursos.alura.com.br/certificate/5341771f-f6a6-49ae-8f01-770ea889e039
+> ![Certificado](https://cursos.alura.com.br/certificate/5341771f-f6a6-49ae-8f01-770ea889e039)
