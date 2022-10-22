@@ -12,7 +12,9 @@
 > 
 > :black_nib: [Expressões Regulares](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
 > 
-> :gear: [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API), etc.
+> :gear: [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+>
+> Entre outros.
 ## Tecnologias utilizadas
 > ![My Skills](https://skillicons.dev/icons?i=vscode,js,nodejs)
 ## Informações
