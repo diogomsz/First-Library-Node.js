@@ -16,7 +16,7 @@
 >
 > Entre outros.
 ## Tecnologias utilizadas
-> ![My Skills](https://skillicons.dev/icons?i=vscode,nodejs,npm,js)
+> ![My Skills](https://skillicons.dev/icons?i=vscode,nodejs,js)
 ## Informações
 > Esta biblioteca foi criada com base no curso de "Node.js: criando sua primeira biblioteca".
 > Todo o projeto foi voltado para o Back-End.
