@@ -21,5 +21,3 @@
 > Esta biblioteca foi criada com base no curso de "Node.js: criando sua primeira biblioteca"
 > 
 > Todo o projeto foi voltado para o Back-End.
-## Certificado:
-> ![Certificado](![certificado](https://user-images.githubusercontent.com/74463348/197362513-c04c1f1d-d5c6-4df6-b1a3-1c3c123fea22.png))
